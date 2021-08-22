@@ -75,7 +75,7 @@
       <Col>
         <ListGroup>
           {#each tasks as task}
-            <ListGroupItem  color="{task.finished === true ? 'success' : ''}">
+            <ListGroupItem color="{task.finished === true ? 'success' : 'light'}">
               <div>
                 {task.title}
                 <div style="float: right;">
