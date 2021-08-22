@@ -114,7 +114,4 @@
 </main>
 
 <style>
-	.finished{
-		background-color: rgb(72, 141, 72);
-	}
 </style>
