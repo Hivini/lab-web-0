@@ -1,5 +1,6 @@
 /node_modules/
-/public/build/
+# Removing this to show it on github pages.
+# /public/build/
 
 .DS_Store
 .vscode
